@@ -2,7 +2,7 @@
 
 **`✿ Desenvolvedora Iniciante em Andamento..`**
 
-Prazer, me chamo Cristal Figueiredo Andrade, tenho 18 anos e sou de Belo Horizonte. Estou concluindo o ensino médio no Cotemig, com o curso técnico em informática. Sou apaixonada por tecnologia e pretendo compartilhar meu conhecimento através do github e com o meu perfil no Linkedin chamado "[Cristal Figueiredo](www.linkedin.com/in/cristal-figueiredo-9150b9336)".
+Prazer, me chamo Cristal Figueiredo Andrade, tenho 18 anos e sou de Belo Horizonte. Estou concluindo o ensino médio no Cotemig, com o curso técnico em informática. Sou apaixonada por tecnologia e pretendo compartilhar meu conhecimento através do github e com o meu perfil no Linkedin chamado Cristal Figueiredo
 
 <p align="left">
     <a href="https://github.com/CristalFigueiredoo?tab=followers">
